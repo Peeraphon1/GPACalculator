@@ -10,6 +10,7 @@
 1.ดาวน์โหลดตัวติดตั้ง IntelliJ IDEA Community Edition โดยเข้าไปที่เว็บไซต์
 https://www.jetbrains.com/idea/download/#section=windows (Ultimate เสียเงิน , Community Edition ฟรี)
 ![image](https://user-images.githubusercontent.com/127968005/229813739-0d8bfa52-3a39-4197-b213-3a1ac4ab6120.png)
+
 2.เมื่อโหลดเสร็จ ดับเบิ้ลคลิกไฟล์ที่โหลดแล้วกดติดตั้งให้เรียบร้อย
 
 ### การติดตั้ง JDK
