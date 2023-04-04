@@ -90,6 +90,7 @@ Calculate : คือเมื่อเราพิมวิชา เกรด 
 
 
 
+
 ![image](https://user-images.githubusercontent.com/127968005/229820962-3c00a4b3-c985-4168-ad83-71c753b69dee.png)
 
 
